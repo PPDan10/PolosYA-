@@ -1,0 +1,94 @@
+/* Estilos generales */
+body {
+    background-color: #14213d; /* Fondo azul oscuro */
+    color: #fca311; /* Texto amarillo */
+}
+
+/* Estilos del navbar */
+.navbar {
+    background-color: #fca311 !important; /* Navbar amarillo */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #14213d !important; /* Texto azul oscuro */
+}
+
+.navbar-brand {
+    font-size: 2rem; /* Tamaño considerable */
+    font-weight: 700; /* Grosor del texto */
+    font-family: 'Arial Black', Gadget, sans-serif; /* Tipo de letra llamativo */
+    text-transform: uppercase; /* Texto en mayúsculas */
+    color: #ffffff !important; /* Color del texto blanco */
+}
+
+
+/* Estilos del banner deslizable */
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+/* Estilos de las tarjetas de productos */
+.card.product-card {
+    background-color: #ffffff; /* Fondo blanco */
+    color: #14213d; /* Texto azul oscuro */
+    margin-bottom: 20px; /* Espaciado entre tarjetas */
+}
+
+.card.product-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra al pasar el ratón */
+    transform: translateY(-5px); /* Efecto de levantamiento */
+}
+
+/* Estilos del título "Información de Envío y Pago" en checkout.html */
+#titulo-pago-envio {
+    color: #14213d; /* Color azul oscuro */
+}
+
+/* Estilos del botón de wishlist */
+.wishlist-btn {
+    background-color: #fca311; /* Botón amarillo */
+    color: #14213d !important; /* Texto azul oscuro */
+    border: none; /* Sin borde */
+    margin-top: 10px; /* Espaciado arriba del botón */
+    transition: background-color 0.3s; /* Transición suave para el cambio de color */
+}
+
+.wishlist-btn:hover {
+    background-color: #80dfff; /* Cambio de color al pasar el ratón (celeste) */
+}
+
+/* Estilos del footer */
+footer {
+    background-color: #fca311; /* Footer amarillo */
+    color: #14213d; /* Texto azul oscuro */
+}
+
+/* Estilos específicos de checkout.html */
+#checkout-form-container {
+    background-color: #ffffff; /* Fondo blanco */
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+/* Estilos específicos de confirmation.html */
+#confirmation-message-container {
+    background-color: #ffffff; /* Fondo blanco */
+    color: #14213d; /* Texto azul oscuro */
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+#confirmation-message {
+    color: #ffffff; /* Texto blanco */
+    font-size: 24px; /* Tamaño considerable */
+}
+
+#confirmation-submessage {
+    font-size: 18px; /* Tamaño regular */
+}

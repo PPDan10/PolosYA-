@@ -1,0 +1,167 @@
+[
+    {
+        "ID": "1434-LT",
+        "Nombre": "POLO ANIME HAIKYUU",
+        "Precio": 59.90,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE ANIME HAIKYUU DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/02/POLO-HAIKYUU-AKIRA-SEIHIN-COLOR-BLANCO.jpg"
+    },
+    {
+        "ID": "2312-KJ",
+        "Nombre": "POLO ANIME EL VIAJE DE CHIHIRO",
+        "Precio": 54.90,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE ANIME EL VIAJE DE CHIHIRO DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/03/POLO-ANIME-EL-VIAJE-DE-CHIHIRO-2.jpg"
+    },
+    {
+        "ID": "3198-ZX",
+        "Nombre": "POLO ANIME – INUYASHA Y KAGOME",
+        "Precio": 52.50,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE ANIME INUYASHA Y KAGOME DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2024/02/POLO-SAN-VALENTIN-INUYASHA.webp"
+    },
+    {
+        "ID": "4587-DF",
+        "Nombre": "POLO ANIME BLEACH",
+        "Precio": 66.00,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE ANIME BLEACH DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/06/POLO-BLEACH-003.webp"
+    },
+    {
+        "ID": "5671-TY",
+        "Nombre": "POLO DRAGON BALL Z",
+        "Precio": 61.30,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE DRAGON BALL Z DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/12/POLO-DRAGON-BALL-Z-001.webp"
+    },
+    {
+        "ID": "6823-JK",
+        "Nombre": "POLO DRAGON BALL",
+        "Precio": 68.90,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE DRAGON BALL DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2024/03/POLO-DRAGON-BALL-Z-008.webp"
+    },
+    {
+        "ID": "7798-QL",
+        "Nombre": "POLO DRAGON BALL – GOKU",
+        "Precio": 65.40,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE DRAGON BALL CON GOKU DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/12/POLO-DRAGON-BALL-Z-003.webp"
+    },
+    {
+        "ID": "8885-WE",
+        "Nombre": "POLO ANIME DRAGON BALL – TORIYAMA",
+        "Precio": 62.20,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE DRAGON BALL DE AKIRA TORIYAMA DE ALTA CALIDAD",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2024/03/POLO-DRAGON-BALL-Z-007-01.webp"
+        },
+        {
+        "ID": "9932-RU",
+        "Nombre": "SHINGEKI NO KYOJIN – TITANES",
+        "Precio": 55.00,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE SHINGEKI NO KYOJIN CON TITANES DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2024/04/polo-Shingeki-no-Kyojin-12.webp"
+        },
+        {
+        "ID": "1047-OP",
+        "Nombre": "SHINGEKI NO KYOJIN – PIECK FINGER",
+        "Precio": 53.50,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE SHINGEKI NO KYOJIN CON PIECK FINGER DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2024/04/polo-Shingeki-no-Kyojin-10.webp"
+        },
+        {
+        "ID": "1159-BN",
+        "Nombre": "POLO ANIME JUJUTSU KAISEN – SEGUNDO AÑO",
+        "Precio": 69.00,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE JUJUTSU KAISEN DEL SEGUNDO AÑO DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/01/POLO-JUJUTSU-KAISEN-002.webp"
+        },
+        {
+        "ID": "1264-MY",
+        "Nombre": "POLO ANIME JUJUTSU KAISEN – HAJIME",
+        "Precio": 59.50,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE JUJUTSU KAISEN CON HAJIME DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2024/01/POLO-JUJUTSU-KAISEN-008.webp"
+        },
+        {
+        "ID": "1397-VB",
+        "Nombre": "POLO ANIME JUJUTSU KAISEN – GOJO",
+        "Precio": 67.80,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE JUJUTSU KAISEN CON GOJO DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2024/01/POLO-JUJUTSU-KAISEN-005.webp"
+        },
+        {
+        "ID": "1428-CX",
+        "Nombre": "POLO ANIME JUJUTSU KAISEN – YUTA",
+        "Precio": 69.90,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE JUJUTSU KAISEN CON YUTA DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/01/POLO-JUJUTSU-KAISEN-001.webp"
+        },
+        {
+        "ID": "1534-HN",
+        "Nombre": "POLO ANIME – ONE PUNCH MAN",
+        "Precio": 68.00,
+        "Stock": 50,
+        "Categoría": "Anime",
+        "Descripción": "POLO DE ONE PUNCH MAN DE ALTA CALIDAD.",
+        "Marca": "Polos Ya! - Original",
+        "Disponibilidad": "En stock",
+        "Imagen": "https://akiraseihin.pe/wp-content/uploads/2023/09/POLO-BORGONA-ONE-PUCHMAN-2.webp"
+    }
+]
